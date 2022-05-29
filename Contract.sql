@@ -2,9 +2,9 @@ USE bazy_danych1;
 
 select * from contract;
 
-SET SQL_SAFE_UPDATES = 0;
+/*SET SQL_SAFE_UPDATES = 0;
 delete from contract;
-SET SQL_SAFE_UPDATES = 1;
+SET SQL_SAFE_UPDATES = 1;*/
 
 
 ###################################################################################################################################################################################

@@ -1,5 +1,5 @@
-#DROP DATABASE bazy_danych1;
-#CREATE DATABASE bazy_danych1;
+DROP DATABASE bazy_danych1;
+CREATE DATABASE bazy_danych1;
 
 USE bazy_danych1;
 
@@ -99,6 +99,7 @@ CREATE TABLE `CARD` (
   `EXPIRATION_DATE` date,
   `CVV_NUMBER` char(3),
   `STATUS` Enum("Active", "Inactive"),
+  `TRANSACTION_LIMIT` int,
   `ACCOUNT_ID` int,
   `CUSTOMER_ID` int,
   PRIMARY KEY (`NUMBER`),
