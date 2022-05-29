@@ -95,7 +95,7 @@ CREATE TABLE `TRANSACTION` (
 );
 
 CREATE TABLE `CARD` (
-  `NUMBER` int,
+  `NUMBER` varchar(20),
   `EXPIRATION_DATE` date,
   `CVV_NUMBER` char(3),
   `STATUS` Enum("Active", "Inactive"),

@@ -61,4 +61,4 @@ insert into COMMON_ACCOUNT (ACCOUNT_ID, CUSTOMER_ID) values (58, 58);
 insert into COMMON_ACCOUNT (ACCOUNT_ID, CUSTOMER_ID) values (59, 59);
 insert into COMMON_ACCOUNT (ACCOUNT_ID, CUSTOMER_ID) values (60, 60);
 
-#SELECT * FROM common_account WHERE ACCOUNT_ID != CUSTOMER_ID;
+SELECT * FROM common_account;
