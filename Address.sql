@@ -120,3 +120,5 @@ insert into ADDRESS (ADDRESS_ID, COUNTRY, CITY, STREET, POSTAL_CODE) values (117
 insert into ADDRESS (ADDRESS_ID, COUNTRY, CITY, STREET, POSTAL_CODE) values (118, 'United States', 'Springfield', '3 Jay Alley', '62756');
 insert into ADDRESS (ADDRESS_ID, COUNTRY, CITY, STREET, POSTAL_CODE) values (119, 'United States', 'Inglewood', '0 Mccormick Lane', '90305');
 insert into ADDRESS (ADDRESS_ID, COUNTRY, CITY, STREET, POSTAL_CODE) values (120, 'United States', 'Reston', '86601 Mesta Parkway', '20195');
+
+select * from address;
