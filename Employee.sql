@@ -1,0 +1,34 @@
+USE bazy_danych1;
+
+insert into EMPLOYEE (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, PHONE_NUMBER, EMAIL, BIRTH_DATE, ADDRESS_ID) values (1, 'Ignaz', 'Bamford', '366-225-4738', 'ibamford0@nationalgeographic.com', '1989-02-28', 63);
+insert into EMPLOYEE (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, PHONE_NUMBER, EMAIL, BIRTH_DATE, ADDRESS_ID) values (2, 'Matthus', 'Saller', '273-703-1681', 'msaller1@ft.com', '1971-04-20', 68);
+insert into EMPLOYEE (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, PHONE_NUMBER, EMAIL, BIRTH_DATE, ADDRESS_ID) values (3, 'Sheba', 'Brunstan', '370-875-4477', 'sbrunstan2@ocn.ne.jp', '1981-04-21', 48);
+insert into EMPLOYEE (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, PHONE_NUMBER, EMAIL, BIRTH_DATE, ADDRESS_ID) values (4, 'Bettye', 'Abramamov', '928-931-0948', 'babramamov3@t.co', '1984-02-17', 53);
+insert into EMPLOYEE (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, PHONE_NUMBER, EMAIL, BIRTH_DATE, ADDRESS_ID) values (5, 'Wilek', 'Navarre', '928-571-5338', 'wnavarre4@skyrock.com', '1983-07-31', 17);
+insert into EMPLOYEE (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, PHONE_NUMBER, EMAIL, BIRTH_DATE, ADDRESS_ID) values (6, 'Rosabel', 'Matijevic', '389-619-7319', 'rmatijevic5@trellian.com', '1978-01-27', 52);
+insert into EMPLOYEE (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, PHONE_NUMBER, EMAIL, BIRTH_DATE, ADDRESS_ID) values (7, 'Grace', 'Giotto', '722-888-4436', 'ggiotto6@about.com', '1987-04-26', 88);
+insert into EMPLOYEE (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, PHONE_NUMBER, EMAIL, BIRTH_DATE, ADDRESS_ID) values (8, 'Sandy', 'Kelleher', '717-719-6538', 'skelleher7@imgur.com', '1982-02-11', 35);
+insert into EMPLOYEE (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, PHONE_NUMBER, EMAIL, BIRTH_DATE, ADDRESS_ID) values (9, 'Codi', 'Le Frank', '690-128-4072', 'clefrank8@prweb.com', '1964-05-03', 20);
+insert into EMPLOYEE (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, PHONE_NUMBER, EMAIL, BIRTH_DATE, ADDRESS_ID) values (10, 'Gratia', 'Edsall', '511-551-3802', 'gedsall9@ucla.edu', '1964-07-04', 18);
+insert into EMPLOYEE (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, PHONE_NUMBER, EMAIL, BIRTH_DATE, ADDRESS_ID) values (11, 'Wilmar', 'Fatscher', '781-154-2192', 'wfatschera@seesaa.net', '1971-02-20', 79);
+insert into EMPLOYEE (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, PHONE_NUMBER, EMAIL, BIRTH_DATE, ADDRESS_ID) values (12, 'Lamont', 'Orrom', '206-513-9497', 'lorromb@cbsnews.com', '1999-05-01', 28);
+insert into EMPLOYEE (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, PHONE_NUMBER, EMAIL, BIRTH_DATE, ADDRESS_ID) values (13, 'Ricard', 'Savill', '375-756-4042', 'rsavillc@diigo.com', '1962-08-25', 95);
+insert into EMPLOYEE (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, PHONE_NUMBER, EMAIL, BIRTH_DATE, ADDRESS_ID) values (14, 'Vernice', 'Heibel', '677-667-3041', 'vheibeld@blog.com', '1980-12-12', 21);
+insert into EMPLOYEE (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, PHONE_NUMBER, EMAIL, BIRTH_DATE, ADDRESS_ID) values (15, 'Greer', 'Petzolt', '576-377-8339', 'gpetzolte@barnesandnoble.com', '1965-02-14', 7);
+insert into EMPLOYEE (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, PHONE_NUMBER, EMAIL, BIRTH_DATE, ADDRESS_ID) values (16, 'Worth', 'Harriday', '141-260-5126', 'wharridayf@netscape.com', '2000-03-22', 20);
+insert into EMPLOYEE (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, PHONE_NUMBER, EMAIL, BIRTH_DATE, ADDRESS_ID) values (17, 'Leshia', 'Armes', '256-943-9338', 'larmesg@mlb.com', '1990-08-20', 50);
+insert into EMPLOYEE (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, PHONE_NUMBER, EMAIL, BIRTH_DATE, ADDRESS_ID) values (18, 'Mohammed', 'Mauditt', '590-901-6313', 'mmauditth@cpanel.net', '1960-02-27', 48);
+insert into EMPLOYEE (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, PHONE_NUMBER, EMAIL, BIRTH_DATE, ADDRESS_ID) values (19, 'Joseph', 'O''Duilleain', '930-101-6787', 'joduilleaini@hao123.com', '1986-09-19', 5);
+insert into EMPLOYEE (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, PHONE_NUMBER, EMAIL, BIRTH_DATE, ADDRESS_ID) values (20, 'Jessamine', 'Bushill', '812-192-4898', 'jbushillj@google.pl', '1996-02-04', 60);
+insert into EMPLOYEE (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, PHONE_NUMBER, EMAIL, BIRTH_DATE, ADDRESS_ID) values (21, 'Falkner', 'Greasley', '828-861-8625', 'fgreasleyk@aboutads.info', '1967-10-13', 41);
+insert into EMPLOYEE (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, PHONE_NUMBER, EMAIL, BIRTH_DATE, ADDRESS_ID) values (22, 'Sayres', 'Dodds', '142-954-1130', 'sdoddsl@house.gov', '1967-07-28', 20);
+insert into EMPLOYEE (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, PHONE_NUMBER, EMAIL, BIRTH_DATE, ADDRESS_ID) values (23, 'Starlin', 'Jeness', '817-482-5671', 'sjenessm@si.edu', '1967-09-17', 41);
+insert into EMPLOYEE (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, PHONE_NUMBER, EMAIL, BIRTH_DATE, ADDRESS_ID) values (24, 'Daryl', 'Dissman', '762-858-4477', 'ddissmann@wunderground.com', '1977-03-01', 96);
+insert into EMPLOYEE (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, PHONE_NUMBER, EMAIL, BIRTH_DATE, ADDRESS_ID) values (25, 'Nonah', 'Adicot', '505-190-7088', 'nadicoto@desdev.cn', '1995-12-09', 78);
+insert into EMPLOYEE (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, PHONE_NUMBER, EMAIL, BIRTH_DATE, ADDRESS_ID) values (26, 'Loralyn', 'Brashaw', '265-929-4437', 'lbrashawp@businessinsider.com', '1962-10-09', 85);
+insert into EMPLOYEE (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, PHONE_NUMBER, EMAIL, BIRTH_DATE, ADDRESS_ID) values (27, 'Cory', 'Dreossi', '968-229-8110', 'cdreossiq@yelp.com', '1970-10-04', 70);
+insert into EMPLOYEE (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, PHONE_NUMBER, EMAIL, BIRTH_DATE, ADDRESS_ID) values (28, 'Halie', 'Cayton', '744-339-1409', 'hcaytonr@cloudflare.com', '1966-10-18', 44);
+insert into EMPLOYEE (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, PHONE_NUMBER, EMAIL, BIRTH_DATE, ADDRESS_ID) values (29, 'Andriana', 'Perrelle', '590-339-8661', 'aperrelles@theguardian.com', '1990-10-07', 1);
+insert into EMPLOYEE (EMPLOYEE_ID, FIRST_NAME, LAST_NAME, PHONE_NUMBER, EMAIL, BIRTH_DATE, ADDRESS_ID) values (30, 'Mollie', 'Spitaro', '613-254-5916', 'mspitarot@apple.com', '1983-06-27', 35);
+
+select * from employee;
