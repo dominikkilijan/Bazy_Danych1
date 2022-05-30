@@ -1,11 +1,8 @@
 USE bazy_danych1;
 
-select * from contract;
-
 /*SET SQL_SAFE_UPDATES = 0;
 delete from contract;
 SET SQL_SAFE_UPDATES = 1;*/
-
 
 ###################################################################################################################################################################################
 ###################################################################################################################################################################################
@@ -165,3 +162,6 @@ insert into CONTRACT (CONTRACT_ID, SIGN_DATE, EXPIRATION_DATE, CONTRACT_TYPE_ID,
 ###################################################################################################################################################################################
 #UPDATE CONTRACT SET CONTRACT.SIGN_DATE = CLIENT.SIGN_DATE WHERE ACCOUNT.ACCOUNT_ID = CONTRACT.ACCOUNT_ID AND CONTRACT_TYPE_ID = 1;
 #UPDATE CONTRACT SET CONTRACT.SIGN_DATE = ( SELECT CLIENT.SIGN_DATE FROM CLIENT WHERE CLIENT.CUSTOMER_ID = 47) WHERE CONTRACT.ACCOUNT_ID = 2;
+
+
+select * from contract;
